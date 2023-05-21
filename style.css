@@ -1,0 +1,33 @@
+/* Поправляет паддинг если убрать автатарку */
+.chat-list .message-comp .message-user {
+  padding: 4px 8px;
+}
+
+.chat-list .message-comp .message-join[data-v-068eb890] {
+  padding: 4px 8px;
+}
+
+/* Убирает аватарку пользователя в чате */
+.chat-list .message-comp .avatar {
+  display: none;
+}
+
+/* Убирает сообщения об активностях, такие как Арена Бот */
+.chat-list .message-activity[data-v-342eec3e] {
+  display: none;
+}
+
+/* Убирает сообщения о касте маны в чате */
+.chat-list .gift-message {
+  display: none;
+}
+
+/* Убирает рейтинг пользователей, VIP ложу и еженедельный рейтинг */
+.gift-rank-header {
+  display: none;
+}
+
+/* Убирает всплывающие штуки над плеером >>но это не точно<< */
+.pendant-wrap {
+  display: none;
+}
