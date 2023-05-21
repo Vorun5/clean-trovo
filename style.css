@@ -31,3 +31,8 @@
 .pendant-wrap {
   display: none;
 }
+
+/* Убирает оповещение о счастливом пространстве */
+.notification-container[data-v-64c2747c] {
+  display: none;
+}
