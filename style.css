@@ -36,3 +36,18 @@
 .notification-container[data-v-64c2747c] {
   display: none;
 }
+
+/* Убирает всякие свиртопирдолины появляющиеся на чате, такие как каст маны */
+.approach-effects[data-v-a9794494] {
+  display: none;
+}
+
+/* Убирает рекламную карусель в заголовке над видеоплеером */
+.room-title .carousel-wrap[data-v-f1acfff8] {
+  display: none;
+}
+
+/* Убирает оповещении о арене */
+.activity-notification[data-v-0bec4e53] {
+  display: none;
+}
